@@ -1,2 +1,2 @@
-# Prediction-Model-for-Lead-Bioaccessibility
-Machine learning model to train and predict lead stomach bioaccessibility from various measured soil properties. 
+# Prediction-Model-for-Lead-Bioaccessibility v1.0
+Machine learning model to train and predict lead stomach bioaccessibility from various measured soil properties. Package contains all scripts necessary to run the model, however current version of these scripts have not yet been properly reformatted for ease of new users. Future iterations to this repository will be made to ensure that unecceassy functions are removed and scripts include detailed and intuitive instructions/explanations.  
